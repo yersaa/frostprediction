@@ -111,8 +111,6 @@ frost-damage-prediction/
    - Wind speeds <2 m/s
    - Clear skies (low cloud cover)
 
-## 📜 License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 **Model Trained**: June 24, 2025  
