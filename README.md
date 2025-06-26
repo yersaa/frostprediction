@@ -3,8 +3,6 @@
 ```markdown
 # Agricultural Frost Damage Prediction Model
 
-![Frost Damage](https://via.placeholder.com/800x400?text=Frost+Damage+Visualization) 
-*Example frost damage in crops*
 
 ## 📖 Overview
 This project develops a machine learning model to predict agricultural frost damage risk using meteorological data from Petropavlovsk, Kazakhstan. The model helps farmers implement timely frost protection measures to prevent crop losses.
